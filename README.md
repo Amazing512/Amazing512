@@ -1,3 +1,3 @@
 # matheusmastelini
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Amazing512&show_icons=true&theme=radical)
