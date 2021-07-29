@@ -1,4 +1,5 @@
-<h4 align="center">Computing and programming enthusiast</h4>
+# about me
+<h3 align="center">Computing and programming enthusiast</h3>
 <h6 align="center">Currently in high school and studying Systems Development in Unicamp's Technical School in Limeira (20-22)</h6>
 
 <div align="center">
